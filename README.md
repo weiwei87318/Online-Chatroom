@@ -1,7 +1,6 @@
 
-Project2 - m2
+Online Chatroom
 =======
-#Project2-milestone2
 
 Demo: https://pacific-island-24462.herokuapp.com/
 
